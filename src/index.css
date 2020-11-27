@@ -16,7 +16,7 @@ code {
 
 html {
   background-color:black;
-  background-image: linear-gradient(#040404, 90%,#370648);
+  background-image: linear-gradient(black, 90%,#370648);
   max-height:100vh;
   max-width: 100vw;
 }

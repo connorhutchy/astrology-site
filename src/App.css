@@ -37,7 +37,7 @@
 
 
 .App-header {
-  background-color: #040404;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: row;
@@ -73,7 +73,7 @@ label, select, option{
 
 .landing_shown{
 
-  background-color: #040404;
+  background-color: black;
   z-index: 100;
   width: 100vw;
   height: 100vh;
@@ -92,7 +92,7 @@ label, select, option{
 .landing_hidden{
 
   animation: fadeOut 4s;
-  background-color: #040404;
+  background-color: black;
   z-index: 100;
   min-width: 100vw;
   min-height: 100vh;
@@ -201,7 +201,7 @@ select {
 
 option {
 
-  background-color: #040404;
+  background-color: black;
   font-size: calc(15px + 2vmin);
 }
 
@@ -414,7 +414,7 @@ option {
   left:0;
   right:0;
   height: 20%;
-  background-image: linear-gradient(#040404be,#370648e7);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.849),#370648e7);
   z-index: 20;
 }
 

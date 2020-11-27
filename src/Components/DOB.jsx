@@ -234,11 +234,11 @@ export default class DOB extends Component {
         }
 
 
-        var firstWord = ["You", "A loved one", "An enemy", "Someone you're close to", "A family pet", "A family member", "A friend", "An old teacher", "Your car", "Your best friend"];
-        var secondWord = ["will", "might", "at midnight will", "could", "may", "will potentially", "will definitely", "possibly could", "later today will", "tonight will"];
+        var firstWord = ["Your car", "A loved one", "You", "Someone you're close to", "A family pet", "A family member", "A friend", "An old teacher", "An enemy", "Your best friend"];
+        var secondWord = ["will potentially", "might", "at midnight will", "could", "at somepoint today will", "will", "will definitely", "possibly could", "later today will", "tonight will"];
         var thirdWord = ["eat","drop","lose","fight","swallow","hide","mess with","chew on", "walk on", "be squished by"];
-        var fourthWord = ["a car", "some olive oil", "a potato", "countless potatoes", "some nice steak", "a really long piece of spaghetti", "their left foot", "their tongue", 
-        "an existential crisis", "absolutely nothing. Astrology doesn't exist."];
+        var fourthWord = ["a piece of Lego.", "some olive oil", "some really weird looking egg", "countless potatoes", "spicy water", "a really long piece of spaghetti", "your left foot", "Apollo 11", 
+        "a bald eagle", "...absolutely nothing. Astrology doesn't exist."];
 
 
         var newReading = firstWord[digitArray[0]] + " " + secondWord[digitArray[1]] + " " + thirdWord[digitArray[2]] + " " + fourthWord[digitArray[3]];
@@ -325,7 +325,7 @@ export default class DOB extends Component {
     <option value="30">30th</option>
     <option value="31">31st</option>
 </select>
-<label>of </label>
+<label> of </label>
 <select id="month" name="month" className="DOBMonth" value={this.state.value} onChange={this.handleChange}>
     <option value="">_</option>
     <option value="January">January</option>
