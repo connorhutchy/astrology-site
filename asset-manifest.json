@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/astrology-site/static/css/main.496c24c2.chunk.css",
+    "main.js": "/astrology-site/static/js/main.0c2b870c.chunk.js",
+    "main.js.map": "/astrology-site/static/js/main.0c2b870c.chunk.js.map",
+    "runtime-main.js": "/astrology-site/static/js/runtime-main.395cea22.js",
+    "runtime-main.js.map": "/astrology-site/static/js/runtime-main.395cea22.js.map",
+    "static/js/2.b469c75d.chunk.js": "/astrology-site/static/js/2.b469c75d.chunk.js",
+    "static/js/2.b469c75d.chunk.js.map": "/astrology-site/static/js/2.b469c75d.chunk.js.map",
+    "static/js/3.85bb7dab.chunk.js": "/astrology-site/static/js/3.85bb7dab.chunk.js",
+    "static/js/3.85bb7dab.chunk.js.map": "/astrology-site/static/js/3.85bb7dab.chunk.js.map",
+    "index.html": "/astrology-site/index.html",
+    "static/css/main.496c24c2.chunk.css.map": "/astrology-site/static/css/main.496c24c2.chunk.css.map",
+    "static/js/2.b469c75d.chunk.js.LICENSE.txt": "/astrology-site/static/js/2.b469c75d.chunk.js.LICENSE.txt",
+    "static/media/aquarius.fdb72d8a.png": "/astrology-site/static/media/aquarius.fdb72d8a.png",
+    "static/media/aries.938ab880.png": "/astrology-site/static/media/aries.938ab880.png",
+    "static/media/cancer.6402b715.png": "/astrology-site/static/media/cancer.6402b715.png",
+    "static/media/capricorn.1f8e3ff1.png": "/astrology-site/static/media/capricorn.1f8e3ff1.png",
+    "static/media/constellationArrow.a3beb064.png": "/astrology-site/static/media/constellationArrow.a3beb064.png",
+    "static/media/empty_constellation.4abb1068.png": "/astrology-site/static/media/empty_constellation.4abb1068.png",
+    "static/media/gemini.fb115f8a.png": "/astrology-site/static/media/gemini.fb115f8a.png",
+    "static/media/leo.db8dad6e.png": "/astrology-site/static/media/leo.db8dad6e.png",
+    "static/media/libra.63f196aa.png": "/astrology-site/static/media/libra.63f196aa.png",
+    "static/media/logo.c52635ee.png": "/astrology-site/static/media/logo.c52635ee.png",
+    "static/media/pisces.8daa330b.png": "/astrology-site/static/media/pisces.8daa330b.png",
+    "static/media/sagittarius.a7180d1e.png": "/astrology-site/static/media/sagittarius.a7180d1e.png",
+    "static/media/scorpio.aef11ab2.png": "/astrology-site/static/media/scorpio.aef11ab2.png",
+    "static/media/taurus.bdb8aaa8.png": "/astrology-site/static/media/taurus.bdb8aaa8.png",
+    "static/media/virgo.4fce305b.png": "/astrology-site/static/media/virgo.4fce305b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395cea22.js",
+    "static/js/2.b469c75d.chunk.js",
+    "static/css/main.496c24c2.chunk.css",
+    "static/js/main.0c2b870c.chunk.js"
+  ]
+}
