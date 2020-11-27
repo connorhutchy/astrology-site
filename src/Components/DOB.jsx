@@ -169,7 +169,7 @@ export default class DOB extends Component {
                 this.updateConstellation(sagittarius);
                 this.setState({starSign:"Sagittarius"});
             }
-            else if(date >= capricornStart && date < aquariusStart){
+            else if(date >= capricornStart && date < (new Date("January 1, 2021 01:00:00"))){
 
                 this.updateConstellation(capricorn);
                 this.setState({starSign:"Capricorn"});
@@ -267,8 +267,9 @@ export default class DOB extends Component {
         constellationElement.className = "constellation_fade";
         setTimeout(function(){
             continueElement.className = "arrow";
-            constellationElement.src = constellation_img;
             constellationElement.className="constellation";
+            constellationElement.src = constellation_img;
+            
 
     },2000);
 
